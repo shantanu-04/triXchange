@@ -1,2 +1,1 @@
-# triXchange
-An investment platform which brings equity, cryptocurrency and nft investments under a single account
+This project is incomplete. It will be finished shortly
